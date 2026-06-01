@@ -1,169 +1,148 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Ram%20Kumar%20R&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Java%20Full%20Stack%20Developer%20%7C%20AI%2FML%20Enthusiast&descAlignY=58&descColor=a78bfa&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Ram%20Kumar%20R&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Java%20Full%20Stack%20Developer%20%7C%20AI%2FML%20Enthusiast&descSize=18&descAlignY=58&animation=fadeIn" />
 
-<!-- Typing Animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Java+Full+Stack+Developer;AI+%2F+ML+Engineer;Blockchain+Enthusiast;Microservices+Architect;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
-</a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&random=false&width=600&lines=Java+Full+Stack+Developer+%F0%9F%9A%80;SpringBoot+%2B+MEAN+Stack+Expert+%F0%9F%94%A5;AI%2FML+Practitioner+%F0%9F%A4%96;Open+to+Opportunities+%F0%9F%92%BC)](https://git.io/typing-svg)
 
-<br/>
+<p>
+  <a href="https://deluxe-starburst-8d029c.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Now-00D4FF?style=for-the-badge&labelColor=0d1117" />
+  </a>
+  <a href="https://linkedin.com/in/ram-kumar-r-rk" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" />
+  </a>
+  <a href="mailto:Ramkumarkramalingam@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Mail%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" />
+  </a>
+  <a href="https://github.com/rkcoder7?tab=followers">
+    <img src="https://img.shields.io/github/followers/rkcoder7?label=Followers&style=for-the-badge&logo=github&color=00D4FF&labelColor=0d1117" />
+  </a>
+</p>
 
-<!-- Badges Row -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ram--kumar--r--rk-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ram-kumar-r-rk/)
-[![GitHub](https://img.shields.io/badge/GitHub-rkcoder7-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rkcoder7)
-[![Email](https://img.shields.io/badge/Email-ramkumarkramalingam%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ramkumarkramalingam@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-9489837262-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919489837262)
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=rkcoder7&color=a78bfa&style=for-the-badge&label=PROFILE+VIEWS)
+<img src="https://komarev.com/ghpvc/?username=rkcoder7&label=Profile+Views&color=00d4ff&style=flat-square" alt="Profile Views" />
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## 🧠 About Me
 
 ```java
 public class RamKumarR {
 
-    String name        = "Ram Kumar R";
-    String role        = "Java Full Stack Developer | AI/ML";
-    String college     = "Sri Manakula Vinayagar Engineering College";
-    String degree      = "B.Tech – Information Technology (2023–2027)";
-    double cgpa        = 8.39;
-    String[] languages = {"English", "Tamil", "French"};
+    String name     = "Ram Kumar R";
+    String location = "Puducherry, India 📍";
+    String degree   = "B.Tech – Information Technology @ SRMVEC (2021–2025)";
+    String gpa      = "8.5 GPA 🎓";
+    String leetcode = "100+ Problems Solved 💡";
 
-    String[] currentFocus = {
-        "Agentic AI Systems",
-        "Microservices Architecture",
-        "Blockchain-based Solutions",
-        "Cybersecurity & Encryption"
-    };
+    String[] currentlyLearning = { "Advanced AI/ML", "Cloud Architecture", "Microservices at Scale" };
+    String[] goals             = { "Build impactful products", "Contribute to Open Source", "Join a top-tier tech team" };
+    String   funFact           = "I turn coffee ☕ into clean, scalable code!";
 
-    String motto = "Build things that matter. Learn things that last.";
+    String[] languages = { "English (Proficient)", "Tamil (Native)", "French (Basic)" };
 }
 ```
 
-> 🚀 A full-stack developer with a strong foundation in **Java, Spring Boot**, and the **MERN stack**, combined with hands-on experience in **AI/ML** and **Blockchain**. Currently pursuing B.Tech in IT with a CGPA of **8.39**, building impactful and innovative software solutions.
-
 ---
 
-## 🛠️ Tech Stack & Skills
+## 🚀 Tech Stack & Skills
 
 <div align="center">
 
-### 💬 Languages
+### 💻 Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 🎨 Frontend
+### 🌐 Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-### ⚙️ Backend & Frameworks
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+### ⚙️ Backend
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-FF6B35?style=for-the-badge&logo=apachekafka&logoColor=white)
+
+### 🗄️ Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-### 🤖 AI / ML & Domains
-![Agentic AI](https://img.shields.io/badge/Agentic_AI-FF6F61?style=for-the-badge&logo=openai&logoColor=white)
-![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=ethereum&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-0078D4?style=for-the-badge&logo=azurefunctions&logoColor=white)
-![MERN Stack](https://img.shields.io/badge/MERN_Stack-61DAFB?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### 🔧 Tools & Platforms
+### 🛠️ Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+### 🤖 AI / ML
+![Groq](https://img.shields.io/badge/Groq_API-00D4FF?style=for-the-badge&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Eureka](https://img.shields.io/badge/Eureka_Service_Discovery-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## 🏗️ Featured Projects
 
+<div align="center">
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🔐 PixelMind – Image Encryption System
-![AI/ML](https://img.shields.io/badge/AI%2FML-Encryption-a78bfa?style=flat-square)
-![Security](https://img.shields.io/badge/Domain-Cybersecurity-red?style=flat-square)
+### 🔐 PixelMind — Image Type Text Encryption
+> AI-powered security tool that converts text files (`.txt`, `.md`, `.py`, `.c`) into encrypted pixelated PDF images using a custom algorithm. Features an integrated AI chatbot for user navigation.
 
-A security-focused system that integrates **AI/ML-based encryption** techniques to protect sensitive text information embedded within images. Combines computer vision with cryptographic principles.
+**Tech Stack:**  
+`HTML` `CSS` `Python` `Groq API` `MongoDB`
 
-**Tech:** Python · AI/ML · Image Processing · Encryption
-
-[![View Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github)](https://github.com/rkcoder7)
+[![Repo](https://img.shields.io/badge/GitHub-View%20Code-181717?style=flat-square&logo=github)](https://github.com/rkcoder7/File-Encrypting-and-Decrypting)
 
 </td>
 <td width="50%" valign="top">
 
-### 🏢 Mindrix – Org Automation & Certificates
-![Blockchain](https://img.shields.io/badge/Blockchain-Certificates-blue?style=flat-square)
-![Full Stack](https://img.shields.io/badge/Full--Stack-Web-green?style=flat-square)
+### ✈️ TripAI — AI Travel Planner
+> End-to-end AI travel planning assistant with day-by-day itinerary generation, user profiles, and a real-time tracking dashboard.
 
-A full-stack web platform that automates organisational workflows and issues **tamper-proof digital certificates** using **Blockchain + AI/ML** — ensuring authenticity and transparency.
+**Tech Stack:**  
+`Streamlit` `Python` `Flask` `Firebase`
 
-**Tech:** Blockchain · AI/ML · React · Node.js · Smart Contracts
-
-[![View Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github)](https://github.com/rkcoder7)
+[![Repo](https://img.shields.io/badge/GitHub-View%20Code-181717?style=flat-square&logo=github)](https://github.com/rkcoder7/trip-ai)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### ⚖️ Load Balancer – Microservices Platform
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-Microservices-6DB33F?style=flat-square)
-![TypeScript](https://img.shields.io/badge/TypeScript-React-3178C6?style=flat-square)
+### ⚖️ Load Balancer — Microservices System
+> Full-stack microservices e-commerce platform with `OrderService` and `PaymentService` as independent Spring Boot microservices, integrated with Eureka service discovery.
 
-Built a full microservices architecture with **Spring Boot + Eureka** service discovery. Implements **OrderService** and **PaymentService** as independent, scalable services for an e-commerce platform.
+**Tech Stack:**  
+`Java` `Spring Boot` `React` `Vite` `TypeScript` `Eureka`
 
-**Tech:** Spring Boot · React · Vite · TypeScript · Eureka
-
-[![View Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github)](https://github.com/rkcoder7)
+[![Repo](https://img.shields.io/badge/GitHub-View%20Code-181717?style=flat-square&logo=github)](https://github.com/rkcoder7/LoadBalancerApp)
 
 </td>
 <td width="50%" valign="top">
 
-### ✈️ Trip-AI – Intelligent Travel Planner
-![Python](https://img.shields.io/badge/Python-Streamlit-3776AB?style=flat-square)
-![AI](https://img.shields.io/badge/Agentic-AI-FF6F61?style=flat-square)
+### 🏥 NMHP Healthcare ML System *(Internship)*
+> Healthcare Learning Disability Detection System built during internship at National Mental Health Programme — demonstrated exceptional technical proficiency in understanding and securing healthcare informatics.
 
-An AI-powered trip planning app built with **Python + Streamlit** that generates personalised travel itineraries and exports them as PDFs. Demonstrates Agentic AI capabilities in real-world use cases.
-
-**Tech:** Python · Streamlit · PDF Generation · AI Prompting
-
-[![View Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rkcoder7/trip-ai)
+**Period:** Dec 2025 – Jul 2026  
+**Stack:** `Python` `ML` `Healthcare Informatics`
 
 </td>
 </tr>
 </table>
-
----
-
-## 💼 Internship Experience
-
-<div align="left">
-
-### 🏥 National Mental Health Programme (NHMP)
-**Dec 16, 2025 – Jan 2, 2026**
-
-> Developed a comprehensive **Healthcare Learning Disability Detection System** demonstrating technical proficiency in secure healthcare informatics.
-
-- 🔬 Built an ML-driven detection pipeline for learning disabilities
-- 🔒 Applied principles of **secure healthcare data handling**
-- 📊 Gained hands-on experience in real-world health-tech applications
-
 </div>
 
 ---
@@ -172,63 +151,68 @@ An AI-powered trip planning app built with **Python + Streamlit** that generates
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rkcoder7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=12&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rkcoder7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rkcoder7&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rkcoder7&layout=compact&langs_count=8&theme=tokyonight&border_radius=12&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff"/>
+<br/>
 
-</div>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rkcoder7&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=ff6b35&currStreakLabel=00d4ff" />
 
-<div align="center">
+<br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=rkcoder7&theme=tokyonight&hide_border=true&border_radius=12&background=0D1117&stroke=A78BFA&ring=A78BFA&fire=FF6F61&currStreakLabel=A78BFA)](https://git.io/streak-stats)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rkcoder7&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ff6b35" />
 
 </div>
 
 ---
 
-## 🎓 Education
+## 🏆 GitHub Trophies
 
-| 🏛️ Institution | 📚 Qualification | 📅 Year | 🏆 Score |
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=rkcoder7&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
+</div>
+
+---
+
+## 🎓 Education & Achievements
+
+| 🏫 Institution | 📚 Qualification | 📅 Year | 🏆 Score |
 |---|---|---|---|
-| Sri Manakula Vinayagar Engineering College | B.Tech – Information Technology | 2023–2027 | CGPA: **8.39** |
-| Petit Seminaire Higher Secondary School | Higher Secondary (HSC) | 2022–2023 | **82.3%** |
+| SRM Valliammai Engineering College | B.Tech – Information Technology | 2021–2025 | **8.5 GPA** |
+| Petit Seminaire Higher Secondary | HSC (Higher Secondary) | — | **92.5%** |
+| — | LeetCode Problems Solved | Ongoing | **100+** |
 
 ---
 
-## 🌐 Languages
-
-| Language | Proficiency |
-|---|---|
-| 🇬🇧 English | Proficient |
-| 🇮🇳 Tamil | Native |
-| 🇫🇷 French | Proficient |
-
----
-
-## 📈 Contribution Graph
+## 🌐 Connect With Me
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rkcoder7&bg_color=0d1117&color=a78bfa&line=a78bfa&point=ff6f61&area=true&hide_border=true" width="95%" />
+
+<a href="https://deluxe-starburst-8d029c.netlify.app/" target="_blank">
+  <img src="https://img.shields.io/badge/🌐_Portfolio-deluxe--starburst-00D4FF?style=for-the-badge&labelColor=0d1117" />
+</a>
+<a href="https://linkedin.com/in/ram-kumar-r-rk" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-ram--kumar--r--rk-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" />
+</a>
+<a href="mailto:Ramkumarkramalingam@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Ramkumarkramalingam-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" />
+</a>
+<a href="https://github.com/rkcoder7" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-rkcoder7-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
+</a>
+
+<br/><br/>
+
+📍 Puducherry – 605001, India &nbsp;|&nbsp; 📞 +91 94898 37262
+
 </div>
 
 ---
 
-## 🤝 Let's Connect
-
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ram-kumar-r-rk/)
-[![Gmail](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ramkumarkramalingam@gmail.com)
-[![GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rkcoder7)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer&text=Open%20to%20Opportunities%20%F0%9F%9A%80&fontSize=20&fontColor=ffffff&fontAlignY=65" />
 
-</div>
-
----
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" />
-
-*"Build things that matter. Learn things that last."* — Ram Kumar R
+*"Write code that even your future self would admire."*
 
 </div>
