@@ -32,7 +32,7 @@ public class RamKumarR {
 
     String name     = "Ram Kumar R";
     String location = "Puducherry, India 📍";
-    String degree   = "B.Tech – Information Technology @ SRMVEC (2021–2025)";
+    String degree   = "B.Tech – Information Technology @ SMVEC (2021–2025)";
     String gpa      = "8.5 GPA 🎓";
     String leetcode = "100+ Problems Solved 💡";
 
@@ -178,8 +178,8 @@ public class RamKumarR {
 
 | 🏫 Institution | 📚 Qualification | 📅 Year | 🏆 Score |
 |---|---|---|---|
-| SRM Valliammai Engineering College | B.Tech – Information Technology | 2021–2025 | **8.5 GPA** |
-| Petit Seminaire Higher Secondary | HSC (Higher Secondary) | — | **92.5%** |
+| Sri Manakula Vinayagar Engineering College | B.Tech – Information Technology | 2021–2025 | **8.34 GPA** |
+| Petit Seminaire Higher Secondary | HSC (Higher Secondary) | — | **83%** |
 | — | LeetCode Problems Solved | Ongoing | **100+** |
 
 ---
