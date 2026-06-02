@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Ram%20Kumar%20R&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Java%20Full%20Stack%20Developer%20%7C%20AI%2FML%20Enthusiast&descSize=18&descAlignY=58&animation=fadeIn" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&random=false&width=600&lines=Java+Full+Stack+Developer+%F0%9F%9A%80;SpringBoot+%2B+MEAN+Stack+Expert+%F0%9F%94%A5;AI%2FML+Practitioner+%F0%9F%A4%96;Open+to+Opportunities+%F0%9F%92%BC)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&random=false&width=600&lines=Java+Full+Stack+Developer+%F0%9F%9A%80;SpringBoot+%2B+MEAN+Stack+%F0%9F%94%A5;AI%2FML+Enthusiast+%F0%9F%A4%96;Open+to+Opportunities+%F0%9F%92%BC)](https://git.io/typing-svg)
 
 <p>
   <a href="https://deluxe-starburst-8d029c.netlify.app/" target="_blank">
